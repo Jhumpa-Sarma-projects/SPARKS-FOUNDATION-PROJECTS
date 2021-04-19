@@ -46,7 +46,7 @@ sentimental analysis of news headlines
 ● Download historical stock prices from finance.yahoo.com
 ● Download textual (news) data from https://bit.ly/36fFPI6
 
-##TASK 8 : COVID 19 TIMELINE ANALYSIS
+## TASK 8 : COVID 19 TIMELINE ANALYSIS
 
 **Description** : Create a storyboard showing spread of Covid-19 cases in your country or
 any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
